@@ -1,8 +1,6 @@
-Here’s a concise version of the README in snippet form:
-
 Image-to-Image Translation Web App with Flask
 
-This project provides a Flask web application where users can upload images and receive generated images as output. The app can be extended to use Neural Style Transfer, cGANs, or any image generation model.
+This project implements an Image-to-Image Translation model using Flask for the backend. The application provides a simple web interface where users can upload images, and the app generates and returns a processed version of the image using Neural Style Transfer.
 
 Installation
 
